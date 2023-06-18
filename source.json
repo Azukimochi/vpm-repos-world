@@ -12,7 +12,8 @@
 	"bannerUrl" : "banner.png",
 	"url" : "https://azukimochi.github.io/vpm-repos/index.json",
 	"githubRepos" : [ 
-        "Azukimochi/LightLimitChangerForMA" 
+        "Azukimochi/LightLimitChangerForMA",
+	"Azukimochi/BoneRenamer"
     ],
 	"packages" : []
 }
