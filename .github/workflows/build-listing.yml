@@ -38,8 +38,6 @@ jobs:
           repository: vrchat-community/template-package-listing
           path: ${{env.pathToTemplate}}
           clean: false # otherwise the local repo will no longer be checked out
-      - name: Download banner
-        run: curl -o ${{env.pathToTemplate}}/Website/banner.png https://raw.githubusercontent.com/Narazaka/template-package/main/Website/banner.png
       - uses: actions/checkout@v3 # check out automation repo
         with:
           repository: vrchat-community/package-list-action
