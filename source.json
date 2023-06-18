@@ -1,0 +1,18 @@
+{
+	"name" : "Azukimochi",
+	"id":"io.github.azukimochi.main",
+	"author" : {
+		"name" : "Azukimochi",
+        "url" : "https://github.com/Azukimochi"
+	},
+	"infoLink" : {
+		"url" : "https://github.com/Azukimochi/vpm-repos",
+		"text" : "View on GitHub"
+	},
+	"bannerUrl" : "banner.png",
+	"url" : "https://azukimochi.github.io/vpm-repos/index.json",
+	"githubRepos" : [ 
+        "Azukimochi/LightLimitChangerForMA" 
+    ],
+	"packages" : []
+}
