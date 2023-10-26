@@ -1,19 +1,18 @@
 {
 	"name" : "Azukimochi",
-	"id":"io.github.azukimochi.main",
+	"id":"io.github.azukimochi.world",
 	"author" : {
 		"name" : "Azukimochi",
         "url" : "https://github.com/Azukimochi"
 	},
 	"infoLink" : {
-		"url" : "https://github.com/Azukimochi/vpm-repos",
+		"url" : "https://github.com/Azukimochi/vpm-repos-world",
 		"text" : "View on GitHub"
 	},
 	"bannerUrl" : "banner.png",
-	"url" : "https://azukimochi.github.io/vpm-repos/index.json",
+	"url" : "https://azukimochi.github.io/vpm-repos-world/index.json",
 	"githubRepos" : [ 
-        "Azukimochi/LightLimitChangerForMA",
-	"Azukimochi/BoneRenamer"
+        "Azukimochi/TaAGatheringListSystem"
     ],
 	"packages" : []
 }
